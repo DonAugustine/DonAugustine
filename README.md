@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning CSS, HTML, and Javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: jshers39@gmail.com or jshers_12@hotmail.com
 - 😄 Pronouns: He/Him/His
