@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin.
 - 👀 I’m interested in Web Development/IT.
 - 🌱 I’m currently learning CSS, HTML, and Javascript.
-- 💞️ I’m looking to collaborate on web development projects.
+- 💞️ I’m looking to collaborate or work on solo web dev projects.
 - 📫 How to reach me: jshers39@gmail.com or jshers_12@hotmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've been playing guitar for 30+ years.
